@@ -1,7 +1,0 @@
-# Cplusplus-Program
-
-The DriverPass project aimed to create an online platform to help aspiring drivers prepare for and pass their tests. My role during this project involved gathering and documenting business requirements through effective communication with clients, which was crucial for the system's subsequent design stages.
-If I had the chance to revise one part of my work, I would focus on enhancing the system design document, particularly the UML diagrams, to make the diagrams more detailed and ensure they cover all possible use cases and scenarios. Improving these diagrams' visual clarity and completeness would provide a clearer blueprint for developers and stakeholders.
-Understanding and implementing the user's needs was critical to the system design process. Conducting thorough interviews with the client to gather their requirements and then map them into specific system functionalities. This approach ensured that the system was tailored to the users' expectations and provided a seamless user experience.
-Considering the user's needs is vital in designing software because it directly impacts the usability and satisfaction of the end product, focusing on user-centered design and iterative development. A thorough understanding allows you to create detailed documentation, and use iterative development with continuous feedback. In the future, I will continue using agile methodologies and user testing to refine the design process.
-
