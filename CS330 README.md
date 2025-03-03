@@ -22,3 +22,4 @@ I used incremental improvements to refine textures, lighting, and controls. New 
 
 Future Applications
 This project strengthens my skills for game development, UI/UX, and simulations. Understanding 3D rendering, object transformations, and interactivity will help in VR/AR, software engineering, and data visualization.
+I plan to continue working on this scene well after this course to continue to refine and work on my 3D rendering skills. 
